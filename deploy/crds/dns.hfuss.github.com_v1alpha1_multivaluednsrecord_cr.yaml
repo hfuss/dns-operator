@@ -1,0 +1,7 @@
+apiVersion: dns.hfuss.github.com/v1alpha1
+kind: MultivalueDnsRecord
+metadata:
+  name: example-multivaluednsrecord
+spec:
+  # Add fields here
+  size: 3
